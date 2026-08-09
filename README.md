@@ -10,7 +10,7 @@
 ## 
 
 <div align="center" style="margin-bottom: 30px">
-    <h1>Front-End</h1>
+    <p style="font-size: 2em; font-weight: 500;">Front-End</p>
     <div data-importer="techs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <h1>Back-End</h1>
+    <p style="font-size: 2em; font-weight: 500;">Back-End</p>
     <div data-importer="techs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
         <img width="12" />
@@ -34,14 +34,14 @@
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <h1>Data Base</h1>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <p style="font-size: 2em; font-weight: 500;">Database</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <h1>Tools</h1>
+    <p style="font-size: 2em; font-weight: 500;">Tools</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -54,6 +54,7 @@
 </div>
 
 ##
+
 <div align="center">
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16Caio/16Caio/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
