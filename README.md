@@ -4,7 +4,7 @@
 </a>
 </p>
 <p align="center" style="margin-bottom: 0">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=22&pause=1000&color=ff5c00&center=true&multiline=true&width=435&height=35&lines=Back-End+%26+Full-Stack+Developer" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=22&pause=1000&color=ff5c00&center=true&multiline=true&width=435&height=35&lines=Back-End+%26+Full-Stack+Developer" alt="Back-End & Full-Stack Developer"/></a>
 </p>
 
 ## 
