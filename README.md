@@ -10,7 +10,7 @@
 ## 
 
 <div align="center" style="margin-bottom: 30px">
-    <p style="font-size: 2em; font-weight: 500;">Front-End</p>
+    <h3>Front-End</h3>
     <div data-importer="techs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <p style="font-size: 2em; font-weight: 500;">Back-End</p>
+    <h3>Back-End</h3>
     <div data-importer="techs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
         <img width="12" />
@@ -34,14 +34,14 @@
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <p style="font-size: 2em; font-weight: 500;">Database</p>
+    <h3>Database</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 <div align="center" style="margin-bottom: 30px">
-    <p style="font-size: 2em; font-weight: 500;">Tools</p>
+    <h3>Tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
